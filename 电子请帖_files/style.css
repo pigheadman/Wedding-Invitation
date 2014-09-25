@@ -1,0 +1,387 @@
+.left {
+	FLOAT: left
+}
+.right {
+	FLOAT: right
+}
+.wrapper {
+	WIDTH: 100%; OVERFLOW: hidden
+}
+.relative {
+	POSITION: relative
+}
+BODY {
+	BORDER-BOTTOM: 0px; MIN-WIDTH: 946px; BORDER-LEFT: 0px; FONT: 12px/21px "Droid Sans", sans-serif; BACKGROUND: url(../images/bg.jpg) no-repeat center top; COLOR: #939090; OVERFLOW: hidden; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+.css3 {
+	POSITION: relative; border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px; box-shadow: 0 0 4px rgba(0, 0, 0, .4); -moz-box-shadow: 0 0 4px rgba(0, 0, 0, .4); -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, .4)
+}
+.page_spinner {
+	Z-INDEX: 99; POSITION: absolute; WIDTH: 100%; BACKGROUND: url(../images/bg.gif); HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+.page_spinner DIV {
+	POSITION: absolute; WIDTH: 100%; BACKGROUND: url(../images/loader.gif) no-repeat 50% 50%; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+.left_block {
+	WIDTH: 220px; BACKGROUND: #fff; FLOAT: left
+}
+.main {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 946px
+}
+.centre {
+	POSITION: relative; MARGIN-TOP: 0px
+}
+BODY {
+	HEIGHT: 100%
+}
+HTML {
+	HEIGHT: 100%
+}
+.over {
+	POSITION: relative; MIN-HEIGHT: 100%; WIDTH: 100%; HEIGHT: auto !important; OVERFLOW: hidden
+}
+.bg1 {
+	POSITION: absolute; WIDTH: 100%; BOTTOM: 0px; BACKGROUND: url(../images/bg_footer.png) repeat-x 0px 0px; HEIGHT: 64px; LEFT: 0px
+}
+A {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; COLOR: #939090; TEXT-DECORATION: none
+}
+A:hover {
+	
+}
+H1 {
+	Z-INDEX: 10; POSITION: absolute; TOP: 184px; LEFT: 329px
+}
+H2 {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 24px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT: bold 30px/1.2em "Î¢ÈíÑÅºÚ"; LETTER-SPACING: -3px; COLOR: #3e3434; PADDING-TOP: 0px; text-shadow: 0 0 #3e3434
+}
+H2 SPAN {
+	PADDING-BOTTOM: 4px; LINE-HEIGHT: 1.2em; DISPLAY: block; LETTER-SPACING: -1px; COLOR: #766f6f; FONT-SIZE: 24px; text-shadow: 0 0 #766f6f
+}
+P {
+	PADDING-BOTTOM: 18px
+}
+header {
+	
+}
+#logo {
+	DISPLAY: block
+}
+#logo IMG {
+	POSITION: relative; TOP: 25px; LEFT: 25px
+}
+.menu {
+	
+}
+#menu {
+	
+}
+#menu > LI {
+	POSITION: absolute
+}
+#menu > LI > IMG {
+	Z-INDEX: 6; POSITION: relative; TOP: 15px; LEFT: 15px
+}
+#menu > LI > SPAN {
+	Z-INDEX: 9; POSITION: absolute; TEXT-ALIGN: center; WIDTH: 145px; COLOR: #fff; TOP: 82px; LEFT: 15px; text-shadow: 1px 1px rgba(0, 0, 0, .2)
+}
+#nav1 {
+	TOP: 105px; LEFT: 304px
+}
+#nav2 {
+	TOP: 239px; LEFT: 230px
+}
+#nav3 {
+	TOP: 372px; LEFT: 304px
+}
+#nav4 {
+	TOP: 372px; LEFT: 458px
+}
+#nav5 {
+	TOP: 239px; LEFT: 536px
+}
+#nav6 {
+	TOP: 105px; LEFT: 458px
+}
+#navigation {
+	Z-INDEX: 12; POSITION: absolute; WIDTH: 451px; HEIGHT: 424px; TOP: 120px; LEFT: 245px
+}
+.submenu {
+	Z-INDEX: 13; POSITION: absolute; TOP: 113px; LEFT: -98px
+}
+.submenu UL {
+	POSITION: relative; PADDING-BOTTOM: 16px; PADDING-LEFT: 5px; WIDTH: 122px; PADDING-RIGHT: 5px; BACKGROUND: url(../images/bg_submenu.gif); PADDING-TOP: 16px; border-radius: 20px; -moz-border-radius: 20px; -webkit-border-radius: 20px
+}
+.submenu LI {
+	POSITION: relative; LINE-HEIGHT: 40px
+}
+.submenu A {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 23px; PADDING-RIGHT: 23px; DISPLAY: block; COLOR: #fff; PADDING-TOP: 0px
+}
+.submenu IMG {
+	POSITION: absolute; WIDTH: 100%; HEIGHT: 0px; TOP: 20px; LEFT: 0px
+}
+#content {
+	PADDING-BOTTOM: 64px; HEIGHT: 636px
+}
+#content > UL > LI {
+	POSITION: relative; WIDTH: 100%; TOP: 27px; LEFT: 225px
+}
+.bg_cont {
+	Z-INDEX: 1; POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.pad {
+	Z-INDEX: 2; POSITION: relative; WIDTH: 388px; HEIGHT: 430px; TOP: 80px; LEFT: 94px
+}
+.link1 {
+	POSITION: relative
+}
+.link1 SPAN {
+	POSITION: absolute; WIDTH: 0px; BOTTOM: 0px; HEIGHT: 1px; LEFT: 0px
+}
+.back {
+	Z-INDEX: 6; POSITION: absolute; TOP: 212px; LEFT: 163px
+}
+.back IMG {
+	POSITION: relative; TOP: 15px; LEFT: 15px
+}
+.back A {
+	POSITION: absolute; TEXT-ALIGN: center; WIDTH: 145px; COLOR: #fff; TOP: 85px; LEFT: 15px; text-shadow: 1px 1px rgba(0, 0, 0, .4)
+}
+.color1 {
+	COLOR: #3e3434
+}
+.pad_bot1 {
+	PADDING-BOTTOM: 12px
+}
+.pad_left1 {
+	PADDING-LEFT: 35px
+}
+.marg_right1 {
+	MARGIN-RIGHT: 20px
+}
+#icons {
+	TEXT-ALIGN: center; PADDING-TOP: 28px
+}
+#icons LI {
+	MARGIN-TOP: -12px; DISPLAY: inline-block; MARGIN-RIGHT: 5px
+}
+#icons A {
+	POSITION: relative; DISPLAY: block
+}
+#icons .img_act {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.scroll {
+	WIDTH: 362px; HEIGHT: 308px; OVERFLOW: hidden
+}
+.track {
+	PADDING-BOTTOM: 24px; PADDING-LEFT: 0px; WIDTH: 22px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/scroll_track.jpg) no-repeat 0px 0px; HEIGHT: 287px; TOP: 28px !important; PADDING-TOP: 24px; LEFT: 366px !important
+}
+.shuttle {
+	WIDTH: 16px; BACKGROUND: url(../images/scroll_drag.png) no-repeat 0px 0px; HEIGHT: 16px; MARGIN-LEFT: 3px
+}
+._up-butt {
+	HEIGHT: 0px !important
+}
+._down-butt {
+	HEIGHT: 0px !important
+}
+.gallery {
+	
+}
+.gallery LI {
+	MARGIN-BOTTOM: 13px; FLOAT: left; MARGIN-RIGHT: 14px
+}
+.gallery A {
+	POSITION: relative; DISPLAY: block
+}
+.gallery .last {
+	MARGIN-BOTTOM: 0px
+}
+.gallery SPAN {
+	POSITION: absolute; WIDTH: 100%; BACKGROUND: url(../images/border1.png) no-repeat 0px 0px; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+.comments {
+	LINE-HEIGHT: 26px; MARGIN-TOP: 7px; FLOAT: right; MARGIN-LEFT: 20px
+}
+.comments STRONG {
+	TEXT-ALIGN: center; WIDTH: 40px; BACKGROUND: url(../images/bg_comments.png) no-repeat 0px 0px; FLOAT: left; COLOR: #fff; FONT-WEIGHT: normal; MARGIN-RIGHT: 2px
+}
+.date {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 3px; LINE-HEIGHT: 16px; TEXT-TRANSFORM: uppercase; PADDING-LEFT: 0px; WIDTH: 41px; PADDING-RIGHT: 0px; BACKGROUND: #ececec; FLOAT: left; HEIGHT: 34px; COLOR: #3e3434; MARGIN-RIGHT: 14px; PADDING-TOP: 3px; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px
+}
+.blog {
+	WIDTH: 100%; MARGIN-BOTTOM: 15px; HEIGHT: 260px; OVERFLOW: hidden
+}
+.next {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 24px; BACKGROUND-COLOR: #ececec; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; FLOAT: left; COLOR: #3e3435; MARGIN-LEFT: 10px; MARGIN-RIGHT: 9px; PADDING-TOP: 0px; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px
+}
+.prev {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 24px; BACKGROUND-COLOR: #ececec; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; FLOAT: left; COLOR: #3e3435; MARGIN-LEFT: 10px; MARGIN-RIGHT: 9px; PADDING-TOP: 0px; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px
+}
+.prev {
+	MARGIN-LEFT: 15px
+}
+.pagin {
+	FLOAT: left
+}
+.pagin A {
+	POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 24px; BACKGROUND-COLOR: #ececec; WIDTH: 24px; FLOAT: left; COLOR: #1b1b1b; MARGIN-LEFT: 1px; FONT-SIZE: 11px; MARGIN-RIGHT: 1px; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px
+}
+.google_map {
+	Z-INDEX: 1; POSITION: relative; WIDTH: 384px; MARGIN-BOTTOM: 21px; BACKGROUND: #fff; HEIGHT: 303px; OVERFLOW: hidden; border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px
+}
+.col1 {
+	WIDTH: 164px; FLOAT: left
+}
+footer {
+	COLOR: #000000; PADDING-TOP: 21px
+}
+footer A {
+	COLOR: #000000
+}
+footer A:hover {
+	
+}
+.social {
+	FLOAT: right
+}
+.social LI {
+	PADDING-RIGHT: 10px; BACKGROUND: url(../images/footer_line.gif) no-repeat right 6px; FLOAT: left; MARGIN-RIGHT: 9px
+}
+.social .last {
+	PADDING-RIGHT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN-RIGHT: 0px
+}
+.social A {
+	POSITION: relative
+}
+.social SPAN {
+	POSITION: absolute; WIDTH: 0px; BOTTOM: 0px; HEIGHT: 1px; LEFT: 0px
+}
+#ContactForm {
+	
+}
+#ContactForm .wrapper {
+	MIN-HEIGHT: 40px; OVERFLOW: inherit
+}
+#ContactForm .success {
+	PADDING-BOTTOM: 15px; DISPLAY: none
+}
+#ContactForm LABEL {
+	POSITION: relative; MIN-HEIGHT: 22px; DISPLAY: inline-block
+}
+#ContactForm .message {
+	HEIGHT: 222px
+}
+#ContactForm SPAN {
+	DISPLAY: block
+}
+#ContactForm .error {
+	LINE-HEIGHT: 14px; WIDTH: 100%; DISPLAY: none; COLOR: #4d820a; FONT-SIZE: 10px
+}
+#ContactForm .empty {
+	LINE-HEIGHT: 14px; WIDTH: 100%; DISPLAY: none; COLOR: #4d820a; FONT-SIZE: 10px
+}
+#ContactForm A {
+	FLOAT: right; MARGIN-LEFT: 20px
+}
+#ContactForm .input {
+	PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 10px; WIDTH: 181px; PADDING-RIGHT: 10px; FONT: 13px "Trebuchet MS", Arial, Helvetica, sans-serif; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 15px; COLOR: #474747; PADDING-TOP: 3px
+}
+#ContactForm TEXTAREA {
+	MARGIN: 0px; OVERFLOW: auto; resize: none
+}
+#ContactForm .bg {
+	POSITION: relative; BORDER-LEFT: #c2c2c2 1px solid; DISPLAY: inline-block; BACKGROUND: #fff; BORDER-TOP: #c2c2c2 1px solid; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px
+}
+#ContactForm {
+	POSITION: relative
+}
+#ContactForm .wrapper {
+	MIN-HEIGHT: 50px; OVERFLOW: inherit
+}
+#ContactForm .success {
+	POSITION: absolute; BOTTOM: 0px; DISPLAY: none; COLOR: #fff; LEFT: 0px
+}
+#ContactForm LABEL {
+	POSITION: relative; MIN-HEIGHT: 34px; DISPLAY: inline-block
+}
+#ContactForm .message {
+	HEIGHT: 97px
+}
+#ContactForm SPAN {
+	DISPLAY: block
+}
+#ContactForm .error {
+	LINE-HEIGHT: 14px; WIDTH: 100%; DISPLAY: none; COLOR: #fff; FONT-SIZE: 10px
+}
+#ContactForm .empty {
+	LINE-HEIGHT: 14px; WIDTH: 100%; DISPLAY: none; COLOR: #fff; FONT-SIZE: 10px
+}
+#ContactForm A {
+	FLOAT: right; MARGIN-LEFT: 20px
+}
+#ContactForm .input {
+	PADDING-BOTTOM: 8px; MARGIN: 0px; PADDING-LEFT: 8px; WIDTH: 282px; PADDING-RIGHT: 8px; FONT: 13px Arial, Helvetica, sans-serif; HEIGHT: 16px; COLOR: #727272; PADDING-TOP: 8px
+}
+#ContactForm TEXTAREA {
+	PADDING-BOTTOM: 8px; MARGIN: 0px; PADDING-LEFT: 8px; WIDTH: 594px; PADDING-RIGHT: 8px; FONT: 13px Arial, Helvetica, sans-serif; HEIGHT: 58px; COLOR: #727272; OVERFLOW: auto; PADDING-TOP: 8px; resize: none
+}
+#ContactForm .bg {
+	DISPLAY: inline-block
+}
+#ContactForm .pad_left1 {
+	PADDING-LEFT: 12px
+}
+#ContactForm .col1 {
+	WIDTH: 300px
+}
+#ContactForm {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#ContactForm .bg {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline-block; FLOAT: left; PADDING-TOP: 0px
+}
+#ContactForm .wrapper {
+	MIN-HEIGHT: 40px; OVERFLOW: inherit
+}
+#ContactForm .success {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 11px; TEXT-TRANSFORM: uppercase; WIDTH: 100%; FLOAT: left; COLOR: #000; FONT-SIZE: 10px
+}
+#ContactForm LABEL {
+	POSITION: relative; PADDING-BOTTOM: 6px; WIDTH: 100%; DISPLAY: inline-block; FLOAT: left
+}
+#ContactForm SPAN {
+	DISPLAY: block
+}
+#ContactForm .error {
+	POSITION: relative; LINE-HEIGHT: 9px; TEXT-TRANSFORM: uppercase; WIDTH: 100%; DISPLAY: none; FLOAT: left; FONT-SIZE: 9px; TOP: 0px
+}
+#ContactForm .empty {
+	POSITION: relative; LINE-HEIGHT: 9px; TEXT-TRANSFORM: uppercase; WIDTH: 100%; DISPLAY: none; FLOAT: left; FONT-SIZE: 9px; TOP: 0px
+}
+#ContactForm A {
+	Z-INDEX: 1; POSITION: relative
+}
+#ContactForm A:hover {
+	TEXT-DECORATION: none
+}
+#ContactForm .input {
+	PADDING-BOTTOM: 8px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 10px; OUTLINE-WIDTH: medium; WIDTH: 235px; PADDING-RIGHT: 10px; FONT-FAMILY: Arial; COLOR: #796d71; FONT-SIZE: 12px; PADDING-TOP: 8px
+}
+#ContactForm TEXTAREA {
+	PADDING-BOTTOM: 10px; MARGIN: 0px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 10px; OUTLINE-WIDTH: medium; WIDTH: 330px; PADDING-RIGHT: 10px; FONT-FAMILY: Arial; HEIGHT: 125px; COLOR: #796d71; FONT-SIZE: 12px; OVERFLOW: auto; PADDING-TOP: 10px; resize: none
+}
+#ContactForm .block {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline-block; FLOAT: left
+}
+#ContactForm .magRight1 {
+	MARGIN-RIGHT: 16px
+}
+.formButtons {
+	POSITION: relative; MARGIN-TOP: 58px; DISPLAY: inline-block; FLOAT: right; FONT-WEIGHT: bold; MARGIN-RIGHT: 20px
+}
+.formBtn {
+	POSITION: relative; DISPLAY: inline-block; MARGIN-RIGHT: 6px
+}

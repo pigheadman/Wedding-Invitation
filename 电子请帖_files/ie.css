@@ -1,0 +1,30 @@
+.submenu UL {
+	BEHAVIOR: url(js/PIE.htc)
+}
+.next {
+	BEHAVIOR: url(js/PIE.htc)
+}
+.prev {
+	BEHAVIOR: url(js/PIE.htc)
+}
+.date {
+	BEHAVIOR: url(js/PIE.htc)
+}
+.pagin A {
+	BEHAVIOR: url(js/PIE.htc)
+}
+.next:hover {
+	BACKGROUND-COLOR: #3e3435; COLOR: #fff
+}
+.prev:hover {
+	BACKGROUND-COLOR: #3e3435; COLOR: #fff
+}
+.pagin A:hover {
+	BACKGROUND-COLOR: #3e3435; COLOR: #fff
+}
+.pagin A.active {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #1b1b1b; FONT-WEIGHT: bold
+}
+.pagin A.active:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #1b1b1b; FONT-WEIGHT: bold
+}
